@@ -1,0 +1,25 @@
+{
+  "restaurant": {
+    "name": "C Unik",
+    "tagline": "La sécurité d'un lieu unique, la liberté d'un espace adaptable",
+    "description": "Plus qu'une salle, C Unik est une expérience sur mesure. Nous mettons à votre disposition un espace privatisable à Nîmes, pensé pour accueillir aussi bien vos réceptions privées que vos évènements professionnels.",
+    "phone": "05 32 00 20 93",
+    "email": "commercial@hotels-nimes.fr",
+    "address": "30000 Nîmes, France",
+    "rating": "4.8",
+    "reviews": "127",
+    "experience_years": "15",
+    "capacity": "120",
+    "phone_commercial": "04 66 70 68 25",
+    "email_commercial": "commercial@hotels-nimes.fr",
+    "logo_caraibes": "/LOGO_CUNIK.png",
+    "logo_cubain": "/LOGO_CUBAIN.png",
+    "logo_evenementiel": "/LOGO_CUNIK.png"
+  },
+  "hours": {
+    "open_days": "Mardi - Samedi",
+    "lunch": "12h00 - 14h30",
+    "dinner": "19h00 - 23h00",
+    "closed": "Fermé dimanche et lundi"
+  }
+}

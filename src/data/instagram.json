@@ -1,0 +1,11 @@
+{
+  "instagram": {
+    "title": "Sur",
+    "title_highlight": "Instagram",
+    "subtitle": "Suivez-nous",
+    "description": "Découvrez nos dernières créations et l'ambiance unique de {restaurant_name}",
+    "cta_title": "{instagram_handle}",
+    "cta_description": "Suivez-nous pour ne rien manquer de nos dernières créations culinaires et de l'ambiance tropicale unique de notre restaurant !",
+    "cta_button": "Suivre sur Instagram"
+  }
+}

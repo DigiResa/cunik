@@ -1,0 +1,177 @@
+{
+  "evenementiel": {
+    "overview": {
+      "title": "Tous vos événements",
+      "title": "C Unik : la sécurité d'un lieu unique",
+      "subtitle": "la liberté d'un espace adaptable",
+      "description": "Parce que pour chaque évènements, C Unik offre un cadre élégant et modulable pour célébrer votre réception. Sous ses voûtes en pierre chargées d'histoire, dans la douceur de sa terrasse estivale ou au cœur de son ambiance cosy, chaque espace se transforme pour refléter vos envies.",
+      "content": "Que vous rêviez d'un repas intimiste ou d'une soirée dansante animée, nous vous proposons un lieu à la fois raffiné, sécurisé et entièrement privatisable.",
+      "conclusion": "Ici, vos souvenirs prennent vie dans une atmosphère qui conjugue chaleur, élégance et authenticité."
+    },
+    "contact": {
+      "title": "Planifions votre événement parfait",
+      "description": "Notre équipe vous accompagne dans la réalisation de tous vos projets événementiels"
+    },
+    "evjf": {
+      "title": "EVJF & EVG",
+      "subtitle": "Moments inoubliables",
+      "description": "Organisez un EVJF ou EVG mémorable dans notre espace entièrement privatisable",
+      "content": "Organisez un EVJF ou EVG mémorable dans notre espace entièrement privatisable. Décoration élégante, cocktails signature, animations personnalisées et surprises garanties pour une soirée inoubliable.",
+      "content2": "Notre équipe s'occupe de tout : ambiance festive, animations, photobooth, dégustations de Spiritueux, playlist personnalisée et même des surprises pour la future mariée.",
+      "images": [
+        "/CK HD-15.jpg",
+        "/HDN-HD-PhotographeMorganPalun-119-scaled.jpg",
+        "/Renault (4).jpg",
+        "/Tapas (6).JPG",
+        "/Bar à vins (13).jpg"
+      ],
+      "features": [
+        { "title": "Ambiance festive", "desc": "Décoration rose et dorée" },
+        { "title": "Groupe privé", "desc": "Espace entièrement à vous" },
+        { "title": "Animations", "desc": "Jeux et surprises" },
+        { "title": "Sur mesure", "desc": "Planning personnalisé" }
+      ],
+      "stat1_value": "20",
+      "stat1_label": "Personnes max",
+      "stat2_value": "100%",
+      "stat2_label": "Privatisé",
+      "cta_title": "Prête à célébrer ?",
+      "cta_description": "Contactez-nous pour organiser l'EVJF parfait",
+      "cta_button": "Organiser mon EVJF"
+    },
+    "mariage": {
+      "title": "Mariage",
+      "subtitle": "Votre jour J parfait",
+      "description": "Coordination complète de votre mariage dans un cadre d'exception",
+      "content": "Coordination complète de votre mariage dans un cadre d'exception, voûtes en pierre, caves vignerons. De la cérémonie laïque au dîner de gala, nous orchestrons chaque détail pour que votre jour J soit parfait.",
+      "content2": "Service premium avec chef dédié, sommelier, coordinateur mariage, décoration sur mesure et photographe partenaire. Capacité jusqu'à 100 invités avec possibilité de privatisation totale. Au cœur d'un Hôtel 4 étoiles disposant d'un grand parking et de chambres spacieuses.",
+      "images": [
+        "/CK HD-27.jpg",
+        "/HDN-HD-PhotographeMorganPalun-117.jpg",
+        "/Renault (10).jpg",
+        "/20250717_154008.jpg",
+        "/Tapas (10).JPG"
+      ],
+      "features": [
+        { "title": "Coordination", "desc": "Organisation complète" },
+        { "title": "Décoration", "desc": "Sur mesure" },
+        { "title": "Moments", "desc": "Souvenirs éternels" },
+        { "title": "Excellence", "desc": "Service premium" }
+      ],
+      "stat1_value": "80",
+      "stat1_label": "Invités max",
+      "stat2_value": "100%",
+      "stat2_label": "Privatisé",
+      "cta_title": "Prêt pour le grand jour ?",
+      "cta_description": "Notre équipe vous accompagne pour un mariage parfait",
+      "cta_button": "Planifier mon mariage"
+    },
+    "anniversaire": {
+      "title": "Anniversaires",
+      "subtitle": "Souffler ses bougies dans un lieu sécurisé",
+      "description": "C Unik est l'adresse idéale pour un anniversaire dans un cadre sûr et accueillant",
+      "content": "Souffler ses bougies et danser toute la nuit dans un lieux sécurisé, c'est possible : C Unik est l'adresse idéale pour un anniversaire. Profitez d'un espace modulable, d'un bar à grands vins, d'un fumoir raffiné et d'une terrasse conviviale en été.",
+      "content2": "Grâce à son ambiance cosy et intimiste, le lieu se prête à toutes les âges — dîner assis, cocktail, piste de danse — pour que la soirée vous ressemble, dans un cadre sûr et accueillant.",
+      "images": [
+        "/CK HD-6.jpg",
+        "/Renault (12).jpg",
+        "/HDN-HD-PhotographeMorganPalun-119-scaled.jpg",
+        "/Tapas (6).JPG",
+        "/20250710_213727.jpg"
+      ],
+      "features": [
+        { "title": "Formules flexibles", "desc": "Cocktail, repas, soirée" },
+        { "title": "Décoration", "desc": "Thématique personnalisée" },
+        { "title": "Animation", "desc": "DJ, musiciens, jeux" },
+        { "title": "Tous âges", "desc": "18 ans à 100 ans !" }
+      ],
+      "stat1_value": "80",
+      "stat1_label": "Personnes max",
+      "stat2_value": "3",
+      "stat2_label": "Formules",
+      "cta_title": "Prêt à célébrer ?",
+      "cta_description": "Contactez-nous pour organiser votre anniversaire parfait",
+      "cta_button": "Organiser ma fête"
+    },
+    "seminaire": {
+      "title": "Séminaires & Événements d'Entreprise",
+      "subtitle": "Un lieu pratique, professionnel et inspirant",
+      "description": "Réunir vos équipes, présenter un projet ou organiser une conférence dans un cadre inspirant",
+      "content": "Réunir vos équipes, présenter un projet ou organiser une conférence demande un lieu à la fois pratique, professionnel et inspirant. C Unik vous accueille dans un espace privatisable, modulable et sécurisé, au sein d'un hôtel 4 étoiles idéalement situé à Nîmes.",
+      "content2": "Conférences, ateliers, cocktails ou soirées d'entreprise : tout est possible. Vous profitez d'un cadre élégant, d'équipements adaptés (mobilier, sonorisation, projection). Un lieu pensé pour conjuguer efficacité, convivialité et image de marque.",
+      "images": [
+        "/CK HD-15.jpg",
+        "/HDN-HD-PhotographeMorganPalun-117.jpg",
+        "/Renault (18).jpg",
+        "/20250717_154008.jpg",
+        "/Tapas (10).JPG"
+      ],
+      "features": [
+        { "title": "Équipements AV", "desc": "Vidéoprojecteur, son" },
+        { "title": "Espace modulable", "desc": "Configuration sur mesure" },
+        { "title": "Pauses café", "desc": "Service inclus" },
+        { "title": "Parking privé", "desc": "Places réservées" }
+      ],
+      "stat1_value": "80",
+      "stat1_label": "Participants max",
+      "stat2_value": "WiFi",
+      "stat2_label": "Haut débit",
+      "cta_title": "Planifions votre événement",
+      "cta_description": "Notre équipe commerciale vous accompagne dans votre projet",
+      "cta_button": "Organiser mon séminaire"
+    },
+    "obseques": {
+      "title": "Obsèques",
+      "subtitle": "Accompagnement respectueux",
+      "description": "Un lieu empreint de dignité et de sérénité pour accompagner les familles",
+      "content": "Certains instants exigent un lieu empreint de dignité et de sérénité. C Unik met à disposition un espace discret et paisible pour accompagner les familles dans l'organisation d'obsèques, de veillées ou de cérémonies d'hommage.",
+      "content2": "Privatisable et modulable, notre lieu offre un cadre sécurisant où proches et amis peuvent se recueillir en toute intimité. Notre priorité est de créer une atmosphère respectueuse et apaisante, afin que vous puissiez vous concentrer sur l'essentiel : honorer la mémoire de votre proche et partager un moment de soutien et de recueillement.",
+      "images": [
+        "/CK HD-27.jpg",
+        "/HDN-HD-PhotographeMorganPalun-119-scaled.jpg",
+        "/Renault (4).jpg",
+        "/20250717_154008.jpg"
+      ],
+      "features": [
+        { "title": "Discrétion", "desc": "Service respectueux" },
+        { "title": "Famille", "desc": "Espace privé" },
+        { "title": "Recueillement", "desc": "Ambiance appropriée" },
+        { "title": "Accompagnement", "desc": "Équipe attentionnée" }
+      ],
+      "stat1_value": "60",
+      "stat1_label": "Personnes max",
+      "stat2_value": "Privé",
+      "stat2_label": "Espace recueilli",
+      "cta_title": "Besoin d'accompagnement ?",
+      "cta_description": "Notre équipe est à votre disposition avec discrétion",
+      "cta_button": "Nous contacter"
+    },
+    "sur_mesure": {
+      "title": "Célébrations Personnalisées",
+      "subtitle": "Un lieu à la hauteur de l'émotion partagée",
+      "description": "Baptême, communion, repas de famille ou fête de fin d'année dans un cadre chaleureux",
+      "content": "Un baptême, une communion, un repas de famille ou une fête de fin d'année méritent un lieu à la hauteur de l'émotion partagée. Chez C Unik, nous mettons à votre disposition un espace chaleureux, sécurisé et modulable, pensé pour rassembler petits et grands dans un cadre à la fois élégant et convivial.",
+      "content2": "Sous les voûtes, autour d'une grande tablée ou sur la terrasse, chaque moment se vit dans une atmosphère intime et respectueuse, propice aux retrouvailles et aux instants précieux en famille.",
+      "images": [
+        "/CK HD-6.jpg",
+        "/Renault (10).jpg",
+        "/HDN-HD-PhotographeMorganPalun-117.jpg",
+        "/Tapas (6).JPG",
+        "/20250717_154008.jpg"
+      ],
+      "features": [
+        { "title": "Conception unique", "desc": "Événement 100% personnalisé" },
+        { "title": "Flexibilité totale", "desc": "Adaptation à vos besoins" },
+        { "title": "Créativité", "desc": "Idées innovantes" },
+        { "title": "Accompagnement", "desc": "Suivi complet A à Z" }
+      ],
+      "stat1_value": "15",
+      "stat1_label": "Ans d'expertise",
+      "stat2_value": "∞",
+      "stat2_label": "Possibilités",
+      "cta_title": "Prêt à créer votre événement unique ?",
+      "cta_description": "Contactez-nous pour discuter de votre projet et recevoir un devis personnalisé",
+      "cta_button": "Créer mon événement"
+    }
+  }
+}

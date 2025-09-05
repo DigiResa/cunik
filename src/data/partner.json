@@ -1,0 +1,20 @@
+{
+  "partner": {
+    "title": "Notre Partenaire",
+    "title_highlight": "Privilégié",
+    "subtitle": "Collaboration",
+    "description": "Découvrez notre partenaire privilégié qui partage nos valeurs d'excellence et d'authenticité.",
+    "content_title": "Une Collaboration",
+    "content_title_highlight": "Exceptionnelle",
+    "content_paragraph1": "Nous travaillons en étroite collaboration avec des partenaires qui partagent notre vision de l'excellence et de l'authenticité.",
+    "content_paragraph2": "Cette synergie nous permet d'offrir à nos clients une expérience unique et des produits de la plus haute qualité.",
+    "partner_name": "Partenaire Excellence",
+    "partner_description": "Un partenaire reconnu pour son expertise et son engagement vers l'excellence.",
+    "partner_website": "https://example.com",
+    "image1": "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg",
+    "image2": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
+    "image3": "https://images.pexels.com/photos/3184293/pexels-photo-3184293.jpeg",
+    "cta_button": "En savoir plus",
+    "cta_link": "https://example.com"
+  }
+}

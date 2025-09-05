@@ -1,0 +1,44 @@
+{
+  "about": {
+    "title": "L'âme des Caraïbes",
+    "title_highlight": "Caraïbes",
+    "subtitle": "Notre Histoire",
+    "description": "Service au comptoir : commandez directement au bar et profitez d'un service rapide et décontracté. Vous n'avez plus qu'à savourer vos cocktails tropicaux, tapas ensoleillés et spécialités aux accents des îles.",
+    "service_title": "Service au Comptoir",
+    "service_content": "👉 Service au comptoir : commandez directement au bar et profitez d'un service rapide et décontracté. Vous n'avez plus qu'à savourer vos cocktails tropicaux, tapas ensoleillés et spécialités aux accents des îles.",
+    "experience_title": "L'Expérience C Unik",
+    "experience_content": "Entre amis, en famille ou en duo, laissez-vous séduire par l'atmosphère festive et dépaysante de notre terrasse : cocktails colorés, musique estivale et décor qui sent bon l'évasion.",
+    "experience_highlight": "Venez vivre l'expérience C Unik Caraïbes, un moment hors du temps au cœur de Nîmes.",
+    "cuisine_title": "Côté Cuisine",
+    "cuisine_content": "👨‍🍳 Côté cuisine, notre équipe revisite l'esprit caribéen à travers une sélection de plats frais et gourmands : grillades parfumées, saveurs épicées, produits de la mer et petites assiettes à partager… une cuisine simple, généreuse et pleine de soleil.",
+    "ambiance_title": "Ambiance & Cadre",
+    "ambiance_content": "Une terrasse aux allures de plage, des lumières tamisées au coucher du soleil, une décoration colorée inspirée des Caraïbes et une playlist qui appelle à la fête.",
+    "ambiance_subtitle": "Entre amis, en famille ou en duo, vivez une expérience estivale dépaysante et festive au cœur de Nîmes.",
+    "ambiance_conclusion": "Venez découvrir C Unik Caraïbes, un moment hors du temps, entre convivialité et évasion.",
+    "location_title": "Au cœur de Nîmes",
+    "location_description": "Idéalement situé à {address}, notre restaurant vous accueille dans un cadre exceptionnel.",
+    "location_hours": "Ouvert {open_days}",
+    "image": "/20250717_154008.jpg",
+    "chef_quote": "Ambiance & cadre : une terrasse aux allures de plage, des lumières tamisées au coucher du soleil, une décoration colorée inspirée des Caraïbes et une playlist qui appelle à la fête. Entre amis, en famille ou en duo, vivez une expérience estivale dépaysante et festive au cœur de Nîmes. Venez découvrir C Unik Caraïbes, un moment hors du temps, entre convivialité et évasion.",
+    "chef_signature": "Chef Créole, {restaurant_name}",
+    "experience_years_label": "Ans d'expérience"
+  },
+  "features": [
+    {
+      "title": "Cuisine Authentique",
+      "description": "Nos chefs créoles préparent chaque plat avec passion selon les traditions ancestrales des Antilles"
+    },
+    {
+      "title": "Ambiance Chaleureuse", 
+      "description": "Plongez dans l'atmosphère tropicale unique de nos îles avec notre décoration soignée et notre musique envoûtante"
+    },
+    {
+      "title": "Accueil Familial",
+      "description": "Notre équipe vous accueille comme en famille dans un cadre convivial et détendu"
+    },
+    {
+      "title": "Produits de Qualité",
+      "description": "Nous sélectionnons rigoureusement nos ingrédients pour vous offrir le meilleur de la gastronomie caribéenne"
+    }
+  ]
+}

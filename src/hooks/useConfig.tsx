@@ -1,5 +1,16 @@
 import React, { createContext, useContext, useState, useEffect, ReactNode } from 'react';
-import siteConfigData from '../data/siteConfig.json';
+import restaurantData from '../data/restaurant.json';
+import socialData from '../data/social.json';
+import heroData from '../data/hero.json';
+import aboutData from '../data/about.json';
+import eventsData from '../data/events.json';
+import instagramData from '../data/instagram.json';
+import reservationData from '../data/reservation.json';
+import navigationData from '../data/navigation.json';
+import themesData from '../data/themes.json';
+import wineCigarData from '../data/wine-cigar.json';
+import partnerData from '../data/partner.json';
+import evenementielData from '../data/evenementiel.json';
 
 // Types pour la configuration
 export interface SiteConfig {
@@ -357,18 +368,34 @@ const ConfigContext = createContext<{
 // Provider de configuration
 export const ConfigProvider: React.FC<{ children: ReactNode }> = ({ children }) => {
   const [config, setConfig] = useState<SiteConfig>(() => {
+    // Combiner toutes les données des fichiers JSON séparés
+    const defaultConfig = {
+      ...restaurantData,
+      ...socialData,
+      ...heroData,
+      ...aboutData,
+      ...eventsData,
+      ...instagramData,
+      ...reservationData,
+      ...navigationData,
+      ...themesData,
+      ...wineCigarData,
+      ...partnerData,
+      ...evenementielData
+    };
+
     // Charger la configuration depuis localStorage si elle existe
     try {
       const savedConfig = localStorage.getItem('siteConfig');
       if (savedConfig) {
         const parsedConfig = JSON.parse(savedConfig);
         // Merger avec la config par défaut pour s'assurer que toutes les propriétés existent
-        return { ...siteConfigData, ...parsedConfig };
+        return { ...defaultConfig, ...parsedConfig };
       }
     } catch (error) {
       console.error('Erreur lors du chargement de la configuration:', error);
     }
-    return siteConfigData as SiteConfig;
+    return defaultConfig as SiteConfig;
   });
 
   const updateConfig = (newConfig: Partial<SiteConfig>) => {

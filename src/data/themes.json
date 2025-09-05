@@ -1,0 +1,46 @@
+{
+  "theme": "evenementiel",
+  "theme_colors": {
+    "caraibes": {
+      "primary": "#10b981",
+      "secondary": "#059669",
+      "accent": "#34d399",
+      "background": "#ecfdf5",
+      "text": "#064e3b"
+    },
+    "cubain": {
+      "primary": "#dc2626",
+      "secondary": "#b91c1c",
+      "accent": "#f87171",
+      "background": "#fef2f2",
+      "text": "#7f1d1d"
+    },
+    "evenementiel": {
+      "primary": "#7c3aed",
+      "secondary": "#6d28d9",
+      "accent": "#a78bfa",
+      "background": "#f5f3ff",
+      "text": "#4c1d95"
+    }
+  },
+  "sections": {
+    "loader": true,
+    "hero": true,
+    "about": true,
+    "events": true,
+    "privatization": true,
+    "wine": true,
+    "cigar": true,
+    "partner": true,
+    "instagram": true,
+    "reservation": true,
+    "widget": true,
+    "evjf": true,
+    "mariage": true,
+    "anniversaire": true,
+    "seminaire": true,
+    "obseques": true,
+    "sur_mesure": true
+  },
+  "dev_mode": true
+}

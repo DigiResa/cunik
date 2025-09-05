@@ -1,0 +1,46 @@
+{
+  "social": {
+    "instagram": "@cunik_evenementiel",
+    "facebook": "C Unik Événementiel",
+    "instagram_url": "https://www.instagram.com/cunik_evenementiel",
+    "facebook_url": "https://www.facebook.com/cunik.evenementiel"
+  },
+  "instagram_posts": [
+    {
+      "image": "/accras10.jpg",
+      "caption": "Accras de morue fraîchement préparés 🌶️",
+      "likes": 245,
+      "comments": 12
+    },
+    {
+      "image": "/20250710_213727.jpg", 
+      "caption": "Coucher de soleil sur notre terrasse 🌅",
+      "likes": 189,
+      "comments": 8
+    },
+    {
+      "image": "/20210609_212948.jpg",
+      "caption": "Ti-punch traditionnel des îles 🍹", 
+      "likes": 312,
+      "comments": 15
+    },
+    {
+      "image": "/20250717_154008.jpg",
+      "caption": "Ambiance tropicale garantie 🌴",
+      "likes": 156,
+      "comments": 6
+    },
+    {
+      "image": "/mousse chocolat3.jpg",
+      "caption": "Dessert coco-passion maison 🥥",
+      "likes": 278,
+      "comments": 11
+    },
+    {
+      "image": "/20210609_212957.jpg",
+      "caption": "Soirée entre amis sur la terrasse ✨",
+      "likes": 201,
+      "comments": 9
+    }
+  ]
+}

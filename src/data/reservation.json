@@ -1,0 +1,23 @@
+{
+  "reservation": {
+    "title": "Réservez votre",
+    "title_highlight": "table",
+    "subtitle": "Réservation",
+    "description": "Garantissez-vous une place dans l'ambiance tropicale unique de C Unik Caraïbes",
+    "iframe_title": "Réservation en ligne",
+    "iframe_subtitle": "Choisissez votre créneau idéal",
+    "info_title": "Informations",
+    "rating_text": "\"Meilleur restaurant tropical de Nîmes\"",
+    "rating_source": "avis Google",
+    "hours_title": "Horaires",
+    "address_title": "Adresse",
+    "phone_title": "Téléphone",
+    "capacity_title": "Capacité",
+    "capacity_description": "Jusqu'à {capacity} personnes",
+    "capacity_privatization": "Privatisation possible",
+    "phone_booking_title": "Réservation par téléphone",
+    "phone_booking_description": "Vous préférez réserver par téléphone ? Notre équipe est à votre disposition pour vous conseiller.",
+    "tip_title": "💡 Conseil",
+    "tip_description": "Réservez 48h à l'avance pour garantir votre table sur notre magnifique terrasse !"
+  }
+}

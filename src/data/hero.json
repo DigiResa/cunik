@@ -1,0 +1,27 @@
+{
+  "hero": {
+    "title_caraibes": "Bienvenue au",
+    "subtitle_caraibes": "C Unik Caraïbes",
+    "description_caraibes": "Plongez dans une ambiance Caraïbes authentique sur notre terrasse ensoleillée.",
+    "subdescription_caraibes": "Cocktails frais, tapas exotiques, couchers de soleil magiques.",
+    "image_caraibes": "/20250710_213727.jpg",
+    "title_cubain": "Bienvenue au",
+    "subtitle_cubain": "C Unik Lounge",
+    "description_cubain": "Découvrez l'art de vivre cubain dans notre ambiance lounge sophistiquée.",
+    "subdescription_cubain": "Cigares premium, rhums d'exception, musique envoûtante.",
+    "image_cubain": "/20250717_154008.jpg",
+    "title_evenementiel": "Votre événement",
+    "subtitle_evenementiel": "sur mesure",
+    "description_evenementiel": "Plus qu'une salle, C Unik est une expérience sur mesure. Nous mettons à votre disposition un espace privatisable à Nîmes, pensé pour accueillir aussi bien vos réceptions privées que vos évènements professionnels.",
+    "subdescription_evenementiel": "La garantie d'un cadre sécurisé, modulable et élégant, où confort et personnalisation se conjuguent pour faire de chaque occasion un moment d'exception.",
+    "image_evenementiel": "/event/HDN-HD-PhotographeMorganPalun-117.jpg",
+    "cta_primary": "Découvrir nos services",
+    "cta_secondary": "Demander un devis",
+    "stats": {
+      "capacity_label": "Couverts",
+      "privatizable_label": "Privatisable",
+      "privatizable_value": "100%",
+      "experience_label": "Ans d'expérience"
+    }
+  }
+}

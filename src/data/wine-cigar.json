@@ -1,0 +1,32 @@
+{
+  "wine": {
+    "title": "Cave à",
+    "title_highlight": "Vins",
+    "subtitle": "Sélection Premium",
+    "description": "Découvrez notre sélection de vins soigneusement choisis pour accompagner nos spécialités créoles",
+    "content_title": "Une sélection",
+    "content_title_highlight": "d'exception",
+    "content_paragraph1": "Notre cave propose une sélection rigoureuse de vins français et internationaux, choisis pour leur capacité à sublimer les saveurs épicées et exotiques de notre cuisine créole.",
+    "content_paragraph2": "Nos sommeliers vous conseillent pour créer l'accord parfait entre nos plats authentiques et nos crus d'exception.",
+    "image1": "/photo-10.jpg",
+    "image2": "/photo-12.jpg",
+    "image3": "",
+    "cta_button": "Découvrir la carte des vins",
+    "cta_link": "#menu"
+  },
+  "cigar": {
+    "title": "Cave à",
+    "title_highlight": "Cigares",
+    "subtitle": "Collection Prestige",
+    "description": "Une sélection de cigares premium pour prolonger vos soirées dans l'esprit des Caraïbes",
+    "content_title": "L'art du",
+    "content_title_highlight": "cigare cubain",
+    "content_paragraph1": "Notre cave à cigares propose une collection exceptionnelle de cigares cubains et dominicains, conservés dans des conditions optimales pour préserver leurs arômes authentiques.",
+    "content_paragraph2": "Profitez de notre terrasse pour savourer un cigare d'exception en fin de soirée, dans l'ambiance tropicale unique de notre établissement.",
+    "image1": "/fum1.jpg",
+    "image2": "/fum2.jpg",
+    "image3": "/fum3.jpg",
+    "cta_button": "Voir la sélection",
+    "cta_link": "#contact"
+  }
+}

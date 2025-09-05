@@ -1,0 +1,58 @@
+{
+  "events": {
+    "title": "Tous vos événements",
+    "title_highlight": "sur mesure",
+    "subtitle": "Événementiel",
+    "description": "C Unik : la sécurité d'un lieu unique, la liberté d'un espace adaptable.",
+    "capacity_title": "Un lieu",
+    "capacity_title_highlight": "entièrement modulable",
+    "capacity_description": "Notre espace événementiel s'adapte à tous vos besoins : EVJF intimistes, mariages somptueux, séminaires professionnels, obsèques respectueuses. Configuration personnalisée de 10 à 80 personnes.",
+    "capacity_standing": "Personnes debout",
+    "capacity_seated": "Personnes assises",
+    "cta_button": "Demander un devis personnalisé",
+    "contact_title": "Prêt à créer votre événement parfait ?",
+    "contact_description": "Notre équipe vous accompagne de A à Z dans la réalisation de votre projet",
+    "contact_phone_button": "📞 {phone}",
+    "contact_message_button": "Devis personnalisé",
+    "image1": "/20250717_154008.jpg",
+    "image2": "/CK HD-6.jpg",
+    "image3": "/HDN-HD-PhotographeMorganPalun-117.jpg",
+    "types": [
+      {
+        "title": "Événements d'Entreprise",
+        "subtitle": "Séminaires & Formations",
+        "description": "Séminaires, formations, team building et repas d'affaires dans un cadre professionnel inspirant",
+        "features": ["Équipements audiovisuels", "Espace modulable", "Pauses café incluses", "Parking privé"],
+        "button": "Demander un devis"
+      },
+      {
+        "title": "EVJF & Enterrements de Vie",
+        "subtitle": "Soirées entre amies",
+        "description": "Célébrez entre amies avec nos formules dédiées aux enterrements de vie de jeune fille",
+        "features": ["Espace privatisé", "Animations sur mesure", "Cocktails signature", "Décoration thématique"],
+        "button": "Demander un devis"
+      },
+      {
+        "title": "Mariages & Célébrations",
+        "subtitle": "Votre jour J parfait",
+        "description": "Créez des souvenirs éternels dans notre cadre d'exception avec un service premium",
+        "features": ["Coordination complète", "Menu gastronomique", "Service premium", "Décoration sur mesure"],
+        "button": "Demander un devis"
+      },
+      {
+        "title": "Anniversaires & Fêtes Privées",
+        "subtitle": "Célébrations personnalisées",
+        "description": "Anniversaires, départs à la retraite, changements de service dans une ambiance festive",
+        "features": ["Ambiance festive", "Menu adapté", "Animation possible", "Service personnalisé"],
+        "button": "Demander un devis"
+      },
+      {
+        "title": "Obsèques & Cérémonies",
+        "subtitle": "Accompagnement respectueux",
+        "description": "Repas de famille et réceptions dans un cadre approprié avec service discret",
+        "features": ["Ambiance respectueuse", "Service discret", "Menu traditionnel", "Espace recueilli"],
+        "button": "Demander un devis"
+      }
+    ]
+  }
+}

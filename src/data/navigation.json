@@ -1,0 +1,18 @@
+{
+  "footer": {
+    "contact_title": "Nous contacter",
+    "hours_title": "Disponibilité",
+    "reservation_text": "Devis personnalisé gratuit",
+    "copyright": "© 2025 C Unik Événementiel. Tous droits réservés.",
+    "legal_link": "Mentions légales",
+    "privacy_link": "Politique de confidentialité"
+  },
+  "header": {
+    "nav_home": "ACCUEIL",
+    "nav_menu": "CARTE ET MENU",
+    "nav_events": "ÉVÉNEMENTIEL",
+    "nav_guide": "GUIDE LOCAL",
+    "nav_contact": "CONTACT",
+    "reservation_button": "🍽️ Réserver une table"
+  }
+}
