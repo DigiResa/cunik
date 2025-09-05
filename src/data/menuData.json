@@ -1,0 +1,205 @@
+{
+  "categories": [
+    {
+      "id": "tapas-creoles",
+      "title": "Tapas Créoles",
+      "subtitle": "Saveurs des îles",
+      "description": "Découvrez nos spécialités antillaises préparées avec passion",
+      "items": [
+        {
+          "id": "accras-morue",
+          "name": "Accras de Morue",
+          "description": "Beignets croustillants aux épices créoles, sauce chien pimentée",
+          "price": "12€",
+          "popular": true,
+          "vegetarian": false,
+          "spicy": true,
+          "allergens": ["gluten", "poisson"],
+          "prepTime": "15-20 min"
+        },
+        {
+          "id": "ceviche-dorade",
+          "name": "Ceviche de Dorade",
+          "description": "Poisson mariné au citron vert, avocat, mangue, coriandre fraîche",
+          "price": "16€",
+          "popular": false,
+          "vegetarian": false,
+          "spicy": false,
+          "allergens": ["poisson"],
+          "prepTime": "10-15 min"
+        },
+        {
+          "id": "plantains-grilles",
+          "name": "Plantains Grillés",
+          "description": "Bananes plantains caramélisées, crème coco-vanille",
+          "price": "9€",
+          "popular": false,
+          "vegetarian": true,
+          "spicy": false,
+          "allergens": ["lait"],
+          "prepTime": "15-20 min"
+        },
+        {
+          "id": "boudin-creole",
+          "name": "Boudin Créole",
+          "description": "Boudin antillais grillé, sauce ti-malice, salade de papaye verte",
+          "price": "14€",
+          "popular": true,
+          "vegetarian": false,
+          "spicy": true,
+          "allergens": [],
+          "prepTime": "20-25 min"
+        }
+      ]
+    },
+    {
+      "id": "plats-signature",
+      "title": "Plats Signature",
+      "subtitle": "Spécialités des Caraïbes",
+      "description": "Nos créations culinaires inspirées des traditions caribéennes",
+      "items": [
+        {
+          "id": "colombo-poulet",
+          "name": "Colombo de Poulet",
+          "description": "Mijoté aux épices créoles, riz parfumé au coco, banane plantain",
+          "price": "22€",
+          "popular": true,
+          "vegetarian": false,
+          "spicy": true,
+          "allergens": [],
+          "prepTime": "25-30 min"
+        },
+        {
+          "id": "poisson-grille-creole",
+          "name": "Poisson Grillé Créole",
+          "description": "Poisson du jour grillé, sauce ti-malice, légumes pays sautés",
+          "price": "26€",
+          "popular": false,
+          "vegetarian": false,
+          "spicy": true,
+          "allergens": ["poisson"],
+          "prepTime": "20-25 min"
+        },
+        {
+          "id": "curry-legumes",
+          "name": "Curry de Légumes",
+          "description": "Légumes de saison au lait de coco, épices douces, riz basmati",
+          "price": "19€",
+          "popular": false,
+          "vegetarian": true,
+          "spicy": false,
+          "allergens": ["lait"],
+          "prepTime": "20-25 min"
+        },
+        {
+          "id": "lambi-grille",
+          "name": "Lambi Grillé",
+          "description": "Conque des Antilles marinée, grillée aux épices, riz créole",
+          "price": "28€",
+          "popular": true,
+          "vegetarian": false,
+          "spicy": false,
+          "allergens": ["mollusques"],
+          "prepTime": "30-35 min"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "Desserts Tropicaux",
+      "subtitle": "Douceurs des îles",
+      "description": "Terminez votre voyage culinaire en beauté",
+      "items": [
+        {
+          "id": "flan-coco",
+          "name": "Flan Coco",
+          "description": "Flan traditionnel à la noix de coco, caramel au rhum",
+          "price": "8€",
+          "popular": true,
+          "vegetarian": true,
+          "spicy": false,
+          "allergens": ["lait", "œufs"],
+          "prepTime": "5 min"
+        },
+        {
+          "id": "blanc-manger-coco",
+          "name": "Blanc-Manger Coco",
+          "description": "Entremets à la noix de coco, coulis de fruits de la passion",
+          "price": "7€",
+          "popular": false,
+          "vegetarian": true,
+          "spicy": false,
+          "allergens": ["lait"],
+          "prepTime": "5 min"
+        },
+        {
+          "id": "tarte-banane",
+          "name": "Tarte à la Banane",
+          "description": "Pâte sablée, crème pâtissière vanille, bananes flambées",
+          "price": "9€",
+          "popular": false,
+          "vegetarian": true,
+          "spicy": false,
+          "allergens": ["gluten", "lait", "œufs"],
+          "prepTime": "5 min"
+        }
+      ]
+    }
+  ],
+ 
+  "summer_specials": {
+    "title": "Carte d'Été",
+    "subtitle": "Spécialités de saison",
+    "description": "Découvrez nos créations estivales rafraîchissantes",
+    "items": [
+      {
+        "id": "salade-mangue-crevettes",
+        "name": "Salade Mangue & Crevettes",
+        "description": "Crevettes grillées, mangue fraîche, avocat, vinaigrette passion",
+        "price": "18€",
+        "popular": true,
+        "vegetarian": false,
+        "spicy": false,
+        "allergens": ["crustacés"],
+        "prepTime": "15 min",
+        "seasonal": true
+      },
+      {
+        "id": "gazpacho-tropical",
+        "name": "Gazpacho Tropical",
+        "description": "Soupe froide à la mangue, concombre, menthe fraîche",
+        "price": "12€",
+        "popular": false,
+        "vegetarian": true,
+        "spicy": false,
+        "allergens": [],
+        "prepTime": "5 min",
+        "seasonal": true
+      },
+      {
+        "id": "tartare-thon-avocat",
+        "name": "Tartare de Thon à l'Avocat",
+        "description": "Thon rouge, avocat, mangue, vinaigrette soja-citron vert",
+        "price": "22€",
+        "popular": true,
+        "vegetarian": false,
+        "spicy": false,
+        "allergens": ["poisson", "soja"],
+        "prepTime": "10 min",
+        "seasonal": true
+      },
+      {
+        "id": "carpaccio-ananas",
+        "name": "Carpaccio d'Ananas",
+        "description": "Ananas Victoria, sorbet coco, menthe fraîche, éclats de pistache",
+        "price": "10€",
+        "popular": false,
+        "vegetarian": true,
+        "spicy": false,
+        "allergens": ["fruits à coque"],
+        "prepTime": "5 min",
+        "seasonal": true
+      }
+    ]
+  }
+}
